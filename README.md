@@ -3,4 +3,4 @@ This All about Kali Linux
 
 ### Items List👻
    - [ERROR](xss.md).
-     - [an error occurred during the signature verification](solve1.md).
+     - [an error occurred during the signature verification (apt update)](solve1.md).
