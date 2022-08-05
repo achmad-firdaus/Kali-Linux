@@ -2,5 +2,6 @@
 This All about Kali Linux
 
 ### Items List👻
-   - [ERROR](xss.md).
+   - [ERROR]().
      - [apt update - an error occurred during the signature verification](solve1.md).
+   - [Shared Folders in VMWare Workstation](solve2.md).
